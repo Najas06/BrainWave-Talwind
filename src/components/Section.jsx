@@ -1,5 +1,5 @@
 import SectionSvg from "../assets/svg/SectionSvg";
-
+// for padding and margin all section
 const Section = ({
   className,
   id,
